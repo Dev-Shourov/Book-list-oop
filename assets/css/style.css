@@ -1,0 +1,17 @@
+.app-box{
+    display: flex;
+    align-content: center;
+    justify-content: center;
+}
+.app-card{
+    width: 700px;
+    padding: 35px 40px;
+    background: antiquewhite;
+    border-radius: 5px;
+}
+.book-list-card{
+    width: 700px;
+    padding: 35px 40px;
+    background: rgb(243, 243, 243);
+    border-radius: 5px;
+}
